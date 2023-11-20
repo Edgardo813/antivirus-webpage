@@ -146,7 +146,7 @@
 @media (min-width: 640px) {
   .Banner {
     background: linear-gradient(rgba(5, 7, 12, 0.7), rgba(5, 7, 10, 0.7)),
-      url(../images/background.jpg)) no-repeat center center;
+      url(../images/background.jpg) no-repeat center center;
     background-size: cover;
     height: 26rem;
     min-height: 100vh;
